@@ -1,7 +1,7 @@
 {
   "domain": "school_holiday_sensor",
   "name": "School Holiday Sensor",
-  "version": "0.2.0",
+  "version": "0.0.6",
   "documentation": "https://github.com/bsmeding/home_assistant_school_holiday_sensor",
   "requirements": [],
   "config_flow": true,
