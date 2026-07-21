@@ -1,54 +1,100 @@
-# source: https://www.service-public.fr/particuliers/actualites/A18008
+# source: https://www.service-public.gouv.fr (vacances scolaires métropole)
+# date_till is the last free day (day before rentrée)
 - name: Zone A
   holidays:
     - name: Toussaint 2025
       date_from: 18-10-2025
-      date_till: 03-11-2025
+      date_till: 02-11-2025
     - name: Noël 2025
       date_from: 20-12-2025
-      date_till: 05-01-2026
+      date_till: 04-01-2026
     - name: Hiver 2026
       date_from: 07-02-2026
-      date_till: 23-02-2026
+      date_till: 22-02-2026
     - name: Printemps 2026
       date_from: 04-04-2026
-      date_till: 20-04-2026
+      date_till: 19-04-2026
     - name: Été 2026
       date_from: 04-07-2026
       date_till: 31-08-2026
+    - name: Toussaint 2026
+      date_from: 17-10-2026
+      date_till: 01-11-2026
+    - name: Noël 2026
+      date_from: 19-12-2026
+      date_till: 03-01-2027
+    - name: Hiver 2027
+      date_from: 13-02-2027
+      date_till: 28-02-2027
+    - name: Printemps 2027
+      date_from: 10-04-2027
+      date_till: 25-04-2027
+    - name: Été 2027
+      date_from: 03-07-2027
+      date_till: 31-08-2027
 
 - name: Zone B
   holidays:
     - name: Toussaint 2025
       date_from: 18-10-2025
-      date_till: 03-11-2025
+      date_till: 02-11-2025
     - name: Noël 2025
       date_from: 20-12-2025
-      date_till: 05-01-2026
+      date_till: 04-01-2026
     - name: Hiver 2026
       date_from: 14-02-2026
-      date_till: 02-03-2026
+      date_till: 01-03-2026
     - name: Printemps 2026
       date_from: 11-04-2026
-      date_till: 27-04-2026
+      date_till: 26-04-2026
     - name: Été 2026
       date_from: 04-07-2026
       date_till: 31-08-2026
+    - name: Toussaint 2026
+      date_from: 17-10-2026
+      date_till: 01-11-2026
+    - name: Noël 2026
+      date_from: 19-12-2026
+      date_till: 03-01-2027
+    - name: Hiver 2027
+      date_from: 20-02-2027
+      date_till: 07-03-2027
+    - name: Printemps 2027
+      date_from: 17-04-2027
+      date_till: 02-05-2027
+    - name: Été 2027
+      date_from: 03-07-2027
+      date_till: 31-08-2027
 
 - name: Zone C
   holidays:
     - name: Toussaint 2025
       date_from: 18-10-2025
-      date_till: 03-11-2025
+      date_till: 02-11-2025
     - name: Noël 2025
       date_from: 20-12-2025
-      date_till: 05-01-2026
+      date_till: 04-01-2026
     - name: Hiver 2026
       date_from: 21-02-2026
-      date_till: 09-03-2026
+      date_till: 08-03-2026
     - name: Printemps 2026
       date_from: 18-04-2026
-      date_till: 04-05-2026
+      date_till: 03-05-2026
     - name: Été 2026
       date_from: 04-07-2026
       date_till: 31-08-2026
+    - name: Toussaint 2026
+      date_from: 17-10-2026
+      date_till: 01-11-2026
+    - name: Noël 2026
+      date_from: 19-12-2026
+      date_till: 03-01-2027
+    - name: Hiver 2027
+      date_from: 06-02-2027
+      date_till: 21-02-2027
+    - name: Printemps 2027
+      date_from: 03-04-2027
+      date_till: 18-04-2027
+    - name: Été 2027
+      date_from: 03-07-2027
+      date_till: 31-08-2027

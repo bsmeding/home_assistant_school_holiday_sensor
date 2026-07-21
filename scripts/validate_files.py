@@ -119,9 +119,10 @@ def validate_translation_file(filepath):
     # Validate required structure
     required_structure = {
         'config.step.user.title',
-        'config.step.region.title', 
-        'config.step.holidays.title',
-        'config.abort.already_configured'
+        'config.step.region.title',
+        'config.abort.no_countries_found',
+        'config.abort.no_regions_found',
+        'config.abort.already_configured',
     }
     
     file_keys = get_nested_keys(data)

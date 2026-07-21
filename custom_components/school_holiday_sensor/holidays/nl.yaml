@@ -1,9 +1,6 @@
-# source: Rijksoverheid – Overzicht schoolvakantie data per schooljaar (2025‑2026, 2026‑2027, 2027‑2028)
+# source: Rijksoverheid – Overzicht schoolvakanties per schooljaar (2025-2026 t/m 2028-2029)
 - name: Regio Noord
   holidays:
-    - name: TEST-vakantie 2025
-      date_from: 10-09-2025
-      date_till: 11-09-2025
     - name: Herfstvakantie 2025
       date_from: 18-10-2025
       date_till: 26-10-2025
@@ -49,6 +46,21 @@
     - name: Zomervakantie 2028
       date_from: 15-07-2028
       date_till: 27-08-2028
+    - name: Herfstvakantie 2028
+      date_from: 14-10-2028
+      date_till: 22-10-2028
+    - name: Kerstvakantie 2028
+      date_from: 23-12-2028
+      date_till: 07-01-2029
+    - name: Voorjaarsvakantie 2029
+      date_from: 17-02-2029
+      date_till: 25-02-2029
+    - name: Meivakantie 2029
+      date_from: 28-04-2029
+      date_till: 06-05-2029
+    - name: Zomervakantie 2029
+      date_from: 21-07-2029
+      date_till: 02-09-2029
 
 - name: Regio Midden
   holidays:
@@ -97,6 +109,21 @@
     - name: Zomervakantie 2028
       date_from: 08-07-2028
       date_till: 20-08-2028
+    - name: Herfstvakantie 2028
+      date_from: 21-10-2028
+      date_till: 29-10-2028
+    - name: Kerstvakantie 2028
+      date_from: 23-12-2028
+      date_till: 07-01-2029
+    - name: Voorjaarsvakantie 2029
+      date_from: 17-02-2029
+      date_till: 25-02-2029
+    - name: Meivakantie 2029
+      date_from: 28-04-2029
+      date_till: 06-05-2029
+    - name: Zomervakantie 2029
+      date_from: 07-07-2029
+      date_till: 19-08-2029
 
 - name: Regio Zuid
   holidays:
@@ -145,3 +172,18 @@
     - name: Zomervakantie 2028
       date_from: 22-07-2028
       date_till: 03-09-2028
+    - name: Herfstvakantie 2028
+      date_from: 21-10-2028
+      date_till: 29-10-2028
+    - name: Kerstvakantie 2028
+      date_from: 23-12-2028
+      date_till: 07-01-2029
+    - name: Voorjaarsvakantie 2029
+      date_from: 10-02-2029
+      date_till: 18-02-2029
+    - name: Meivakantie 2029
+      date_from: 28-04-2029
+      date_till: 06-05-2029
+    - name: Zomervakantie 2029
+      date_from: 14-07-2029
+      date_till: 26-08-2029
